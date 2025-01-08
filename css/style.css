@@ -8234,7 +8234,7 @@ h4, h5, h6 {
 .centered {
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  height: 50vh;
   padding-left: 50px;
   padding-right: 50px;
 }
